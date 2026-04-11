@@ -1,7 +1,4 @@
 
----
-
-````md
 # Prosthetic Robot Hand (Computer Vision Controlled)
 
 ## Overview
@@ -116,5 +113,4 @@ Ensure the Arduino is connected and the correct COM port is selected.
 
 This project demonstrates a basic implementation of a human-robot interaction system using computer vision and embedded systems. It provides a foundation for more advanced prosthetic control systems and gesture-based robotic applications.
 
-```
 
