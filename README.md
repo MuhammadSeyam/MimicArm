@@ -11,7 +11,7 @@ No buttons. No keyboard. No manual input. Just your hand.
 
 > 📹 `assets/demo.mp4`
 
-![System Preview](assets/images/hand_preview.jpg)
+![System Preview](assets/hand_preview.jpg)
 
 > ⚠️ This image shows the prosthetic hand model. Real-time motion is demonstrated in the attached video.
 
