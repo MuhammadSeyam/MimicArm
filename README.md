@@ -269,3 +269,4 @@ This project is licensed under the terms in [`LICENSE`](LICENSE).
 - [MediaPipe](https://mediapipe.dev/) by Google — hand landmark detection
 - [OpenCV](https://opencv.org/) — camera capture and display
 - [Arduino Servo library](https://www.arduino.cc/reference/en/libraries/servo/) — servo control
+- Edited by Ibrahim
