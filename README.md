@@ -263,7 +263,8 @@ This project is licensed under the terms in [`LICENSE`](LICENSE).
 
 ---
 
-## Acknowledgements
+## Acknowledgements<img width="736" height="981" alt="Arduino-diy_com" src="https://github.com/user-attachments/assets/6d9444e2-cd99-4538-a390-49febf1bc2ea" />
+
 
 - [MediaPipe](https://mediapipe.dev/) by Google — hand landmark detection
 - [OpenCV](https://opencv.org/) — camera capture and display
